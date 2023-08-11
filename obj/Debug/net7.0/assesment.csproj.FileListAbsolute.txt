@@ -1,0 +1,15 @@
+C:\new_projects\assesment_wk2\assesment\bin\Debug\net7.0\assesment.exe
+C:\new_projects\assesment_wk2\assesment\bin\Debug\net7.0\assesment.deps.json
+C:\new_projects\assesment_wk2\assesment\bin\Debug\net7.0\assesment.runtimeconfig.json
+C:\new_projects\assesment_wk2\assesment\bin\Debug\net7.0\assesment.dll
+C:\new_projects\assesment_wk2\assesment\bin\Debug\net7.0\assesment.pdb
+C:\new_projects\assesment_wk2\assesment\obj\Debug\net7.0\assesment.csproj.AssemblyReference.cache
+C:\new_projects\assesment_wk2\assesment\obj\Debug\net7.0\assesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\new_projects\assesment_wk2\assesment\obj\Debug\net7.0\assesment.AssemblyInfoInputs.cache
+C:\new_projects\assesment_wk2\assesment\obj\Debug\net7.0\assesment.AssemblyInfo.cs
+C:\new_projects\assesment_wk2\assesment\obj\Debug\net7.0\assesment.csproj.CoreCompileInputs.cache
+C:\new_projects\assesment_wk2\assesment\obj\Debug\net7.0\assesment.dll
+C:\new_projects\assesment_wk2\assesment\obj\Debug\net7.0\refint\assesment.dll
+C:\new_projects\assesment_wk2\assesment\obj\Debug\net7.0\assesment.pdb
+C:\new_projects\assesment_wk2\assesment\obj\Debug\net7.0\assesment.genruntimeconfig.cache
+C:\new_projects\assesment_wk2\assesment\obj\Debug\net7.0\ref\assesment.dll
